@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Destructable\ScoreGiver.cs">
+    <Files>
+      <File FileName="Assets\Script\Objectives\Score\ChainStreakManager.cs" Line="33" Column="17" />
+      <File FileName="Assets\Script\Player\PlayerController.cs" Line="128" Column="81" />
+      <File FileName="Assets\Script\Destructable\ScoreGiver.cs" Line="28" Column="4" />
+      <File FileName="Assets\Script\Objectives\TextFading.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
